@@ -14,10 +14,6 @@ Music stuffs!
 Boss
 Crate
 Marshall
-Peavey
-Fender
-Victory
-Friedman
 Orange
 Vox
 
@@ -26,4 +22,11 @@ Guitars!
 Ibanez
 Suhr
 Jackson
+
+
+Multi-FX Pedals
+
+Headrush
+Quad Cortex
+Line 6 Helix
 
