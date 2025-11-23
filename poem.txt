@@ -1,13 +1,15 @@
-The Rainbow
+The Rainbow and The Unicorn
 
 Purple
 Pink
 Orange
 Blue
 Green
+Unicorn
 Yellow
 Red
 These are the colors of the rainbow.
+And The Unicorn
 
 Music stuffs!
 
@@ -29,4 +31,13 @@ Multi-FX Pedals
 Headrush
 Quad Cortex
 Line 6 Helix
+
+
+Types of Subjects
+
+WEBPROG
+MOBPROG
+CLDCOMP
+PEMBEDS
+DATAMA
 
